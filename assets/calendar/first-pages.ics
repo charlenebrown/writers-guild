@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bklyn Custom Designs//Writers Association Concept//EN
+BEGIN:VEVENT
+UID:first-pages-2026@writers-concept.invalid
+DTSTAMP:20261008T210000Z
+DTSTART:20261028T220000Z
+DTEND:20261029T000000Z
+SUMMARY:[FICTIONAL DEMO] First Pages\, Fresh Starts
+DESCRIPTION:Portfolio concept only. Not a real event. A welcoming workshop 
+ for the writer with an idea\, a notebook\, and a little uncertainty about 
+ where to begin.
+LOCATION:Online · emerging writers
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

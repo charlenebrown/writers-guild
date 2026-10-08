@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bklyn Custom Designs//Writers Association Concept//EN
+BEGIN:VEVENT
+UID:archive-2026@writers-concept.invalid
+DTSTAMP:20261008T210000Z
+DTSTART:20261106T000000Z
+DTEND:20261106T020000Z
+SUMMARY:[FICTIONAL DEMO] The Family Archive as a Writing Practice
+DESCRIPTION:Portfolio concept only. Not a real event. Turn photographs\, le
+ tters\, and family conversations into thoughtful material without losing t
+ he people inside the story.
+LOCATION:Online · all experience levels
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

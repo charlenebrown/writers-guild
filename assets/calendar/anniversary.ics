@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bklyn Custom Designs//Writers Association Concept//EN
+BEGIN:VEVENT
+UID:anniversary-2026@writers-concept.invalid
+DTSTAMP:20261008T210000Z
+DTSTART:20261116T233000Z
+DTEND:20261117T013000Z
+SUMMARY:[FICTIONAL DEMO] 30 Years. Still Writing the Future.
+DESCRIPTION:Portfolio concept only. Not a real event. Our anniversary liter
+ ary gathering brings readings\, conversation\, music\, and an after-hours 
+ celebration into one room.
+LOCATION:Brooklyn · venue announcement forthcoming
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
